@@ -13288,3 +13288,7 @@ body {
     transform: scale(1);
   }
 }
+
+.video-bg video{
+    min-height: 73%;
+}
