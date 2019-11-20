@@ -1,6 +1,7 @@
 wp-content/plugins
 wp-content/uploads
 wp-admin
+wp-config.php
 wp-includes
 Final.mp4
 .idea
