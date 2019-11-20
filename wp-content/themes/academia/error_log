@@ -1,0 +1,75 @@
+[09-Jul-2016 10:26:37 Europe/Berlin] PHP Fatal error:  Call to undefined function trailingslashit() in /home/oktatas/public_html/wp-content/themes/academia/functions.php on line 2
+[07-Aug-2016 18:22:37 Europe/Berlin] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/oktatas/public_html/wp-content/themes/academia/header.php on line 2
+[07-Aug-2016 18:22:39 Europe/Berlin] PHP Fatal error:  Call to undefined function do_action() in /home/oktatas/public_html/wp-content/themes/academia/footer.php on line 4
+[07-Aug-2016 18:22:42 Europe/Berlin] PHP Fatal error:  Call to undefined function get_header() in /home/oktatas/public_html/wp-content/themes/academia/404.php on line 3
+[07-Aug-2016 23:30:14 Europe/Berlin] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/oktatas/public_html/wp-content/themes/academia/header.php on line 2
+[07-Aug-2016 23:30:16 Europe/Berlin] PHP Fatal error:  Call to undefined function do_action() in /home/oktatas/public_html/wp-content/themes/academia/footer.php on line 4
+[07-Aug-2016 23:30:19 Europe/Berlin] PHP Fatal error:  Call to undefined function get_header() in /home/oktatas/public_html/wp-content/themes/academia/404.php on line 3
+[10-Aug-2016 22:07:26 Europe/Berlin] PHP Fatal error:  Call to undefined function trailingslashit() in /home/oktatas/public_html/wp-content/themes/academia/functions.php on line 2
+[18-Mar-2017 14:28:17 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[23-Mar-2017 22:25:12 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[29-Mar-2017 18:34:24 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[29-Aug-2017 18:47:22 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[10-Oct-2017 08:03:17 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[10-Oct-2017 08:03:17 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[11-Oct-2017 11:57:06 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[11-Oct-2017 11:57:06 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[17-Oct-2017 12:08:20 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[17-Oct-2017 12:08:20 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[19-Oct-2017 08:41:44 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[19-Oct-2017 08:41:44 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[03-Jan-2018 12:47:48 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[03-Jan-2018 12:47:49 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[08-Jan-2018 20:54:28 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[08-Jan-2018 20:54:28 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[10-Mar-2018 11:05:49 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[18-Mar-2018 12:33:24 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[18-Mar-2018 12:33:25 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[19-Mar-2018 07:28:35 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[19-Mar-2018 07:28:36 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[20-Mar-2018 05:22:55 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[20-Mar-2018 05:22:55 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[20-Mar-2018 10:29:47 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[20-Mar-2018 10:29:48 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[07-May-2018 09:44:25 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[22-Jul-2018 03:47:52 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[22-Jul-2018 03:47:52 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[22-Jul-2018 03:47:52 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[22-Jul-2018 03:47:52 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[22-Jul-2018 03:47:53 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[22-Jul-2018 03:47:53 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[22-Jul-2018 03:47:55 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[22-Jul-2018 03:47:59 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[06-Aug-2018 23:47:59 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[06-Aug-2018 23:47:59 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[06-Aug-2018 23:47:59 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[06-Aug-2018 23:47:59 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[06-Aug-2018 23:48:00 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[06-Aug-2018 23:48:00 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[06-Aug-2018 23:48:00 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[06-Aug-2018 23:48:00 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[13-Aug-2018 18:02:07 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[13-Aug-2018 18:02:07 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[13-Aug-2018 18:02:07 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[13-Aug-2018 18:02:07 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[13-Aug-2018 18:02:07 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[13-Aug-2018 18:02:07 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[13-Aug-2018 18:02:07 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[13-Aug-2018 18:02:07 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[24-Aug-2018 07:13:39 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[24-Aug-2018 07:13:39 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[24-Aug-2018 07:13:39 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[24-Aug-2018 07:13:39 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[24-Aug-2018 07:13:39 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[24-Aug-2018 07:13:39 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[24-Aug-2018 07:13:39 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[24-Aug-2018 07:13:39 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[31-Aug-2018 17:06:15 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[31-Aug-2018 17:06:15 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[31-Aug-2018 17:06:15 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[31-Aug-2018 17:06:15 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[31-Aug-2018 17:06:15 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/404.php on line 3
+[31-Aug-2018 17:06:15 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7
+[31-Aug-2018 17:06:15 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/archive.php on line 8
+[31-Aug-2018 17:06:15 Europe/Budapest] PHP Fatal error:  Class 'G5Plus_Global' not found in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/header.php on line 2
+[25-Sep-2018 16:37:21 Europe/Budapest] PHP Fatal error:  Call to undefined function get_header() in /home/thaimas1/thaimasszazsoktatas.hu/www/wp-content/themes/academia/index.php on line 7

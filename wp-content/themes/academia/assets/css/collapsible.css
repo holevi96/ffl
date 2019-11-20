@@ -1,0 +1,83 @@
+.ca-box{
+    -webkit-transition: all 0.2s; /* Safari prior 6.1 */
+    transition: all 0.2s;
+    transform-origin: top;
+}
+.collapsable{
+    margin-top: 20px;
+    overflow:hidden;
+    position:relative;
+}
+.collapsable.ca-expanded .ca-box{
+    transform: scaleY(1);
+    height: auto;
+}
+.collapsable.ca-collapsed{
+    height: 40px;
+}
+.collapsable.ca-collapsed .ca-box{
+    transform: scaleY(0);
+    height:0;
+}
+.collapsable legend a{
+    padding-right: 55px;
+}
+.collapsable.ca-collapsed  legend a:after{
+    content: '';
+    position: absolute;
+    left: 18%;
+    top: 6px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid #000000b5;
+    clear: both;
+
+}
+.collapsable.ca-expanded legend a:after{
+    content: '';
+    position: absolute;
+    left: 18%;
+    top: 6px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #000000b5;
+    clear: both;
+
+}
+.barion-recurrent{
+    background-color: #30a8cc;
+    border-color: #30a8cc;
+    border: none;
+    display: block;
+    margin-bottom: 25px;
+    border-radius: 4px;
+    font-size: 18px;
+}
+ .barion-recurrent a{
+    color: white !important;
+	 padding: 30px;
+	 display:block;
+}
+.barion-recurrent:hover{
+    background-color: #f3980e;
+    border-color: #f3980e;
+}
+form.register{
+    padding-right: 35px !important;
+}
+form.login{
+    padding-left: 35px !important;
+    padding-top: 98px !important;
+    text-align: left !important;
+}
+#checkbox-box{
+    margin-bottom: 20px;
+}
+#checkbox-box.red{
+    border:2px solid red;
+    padding: 7px;
+}
